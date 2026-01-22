@@ -281,7 +281,7 @@ This dataset is intended for **educational, analytical, and practice purposes on
 
 ## ✨ Author
 Prepared for **data analytics, business intelligence, and visualization projects**.
-
+# Visuals
 <img width="900" height="500" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Financial_Transaction_Analysis/blob/main/image/1.png" />
 
 <img width="900" height="500" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Financial_Transaction_Analysis/blob/main/image/2.png" />
@@ -296,6 +296,7 @@ Prepared for **data analytics, business intelligence, and visualization projects
 
 <img width="900" height="500" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Financial_Transaction_Analysis/blob/main/image/7.png" />
 
+# Dashboards
 <img width="900" height="500" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Financial_Transaction_Analysis/blob/main/image/8.png" />
 
 <img width="900" height="500" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Financial_Transaction_Analysis/blob/main/image/9.png" />
