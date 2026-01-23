@@ -1,5 +1,8 @@
 # Financial_Transaction_Analysis
 
+<img width="900" height="400" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Financial_Transaction_Analysis/blob/main/image/payment.webp" />
+
+https://github.com/AvishkarK07/Financial_Transaction_Analysis/blob/main/image/payment.webp
 # 💳 Financial Transactions Dataset
 
 ## 📌 Overview
