@@ -285,23 +285,32 @@ This dataset is intended for **educational, analytical, and practice purposes on
 ## ✨ Author
 Prepared for **data analytics, business intelligence, and visualization projects**.
 # Visuals
+<h1>1.Transaction Amount by Transaction Type</h1>
 <img width="900" height="500" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Financial_Transaction_Analysis/blob/main/image/1.png" />
 
+<h1>2.Payment Method Distribution</h1>
 <img width="900" height="500" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Financial_Transaction_Analysis/blob/main/image/2.png" />
 
+<h1>3.Transactions Over Time</h1>
 <img width="900" height="500" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Financial_Transaction_Analysis/blob/main/image/3.png" />
 
+<h1>4.Fraud by Payment Method</h1>
 <img width="900" height="500" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Financial_Transaction_Analysis/blob/main/image/4.png" />
 
+<h1>5.Fraud by City & Merchant Category</h1>
 <img width="900" height="500" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Financial_Transaction_Analysis/blob/main/image/5.png" />
 
+<h1>6.Total Amount by Payment Method</h1>
 <img width="900" height="500" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Financial_Transaction_Analysis/blob/main/image/6.png" />
 
+<h1>7.Avg Amount per Payment Method</h1>
 <img width="900" height="500" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Financial_Transaction_Analysis/blob/main/image/7.png" />
 
 # Dashboards
+<h1>Financial Overview Dashboard</h1>
 <img width="900" height="500" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Financial_Transaction_Analysis/blob/main/image/8.png" />
 
+<h1>Fraud Detection & Payment Method Performance</h1>
 <img width="900" height="500" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Financial_Transaction_Analysis/blob/main/image/9.png" />
 
 
