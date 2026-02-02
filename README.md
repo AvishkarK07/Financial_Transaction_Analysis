@@ -12,6 +12,12 @@ It is well-suited for **data analysis, fraud detection studies, Tableau/Power BI
 
 ---
 
+## Tool Used :
+<img width="300" height="250" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Electric_Vehicle_Analysis/blob/main/image/tableau.jpg" />
+
+
+---
+
 ## 📂 Dataset Information
 
 - **Total Records:** 5,000  
